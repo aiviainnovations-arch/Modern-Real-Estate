@@ -206,6 +206,6 @@ Released under the [MIT License](LICENSE). Third-party assets, including Unsplas
 
 <div align="center">
 
-Designed and built by **AIVA**.
+Designed and built by Aivia Innovations.
 
 </div>
